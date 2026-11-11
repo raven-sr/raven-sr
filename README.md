@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey there, I'm Siva Sundaram 👋</h1>
 
-<h3 align="center">Full-Stack Developer | MERN Stack | Java | AI Integration</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | AI Integration</h3>
 
 <p align="center">
   Building scalable, user-centric web applications and exploring AI-powered solutions.
