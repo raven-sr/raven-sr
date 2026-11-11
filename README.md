@@ -3,7 +3,7 @@
   <img src="./banner.png" width="100%" alt="Siva Sundaram - Full Stack Developer" />
 </p>
 
-<h1 align="center">Hey there, I'm Siva Sundaram 👋</h1>
+<h1 align="center">Hello, World! I'm Siva Sundaram 🚀</h1>
 
 <h3 align="center">Full-Stack Developer | MERN Stack | AI Integration</h3>
 
