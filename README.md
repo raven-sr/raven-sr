@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Siva Sundaram - Full Stack Developer" />
+  <img src="./banner.png" width="100%" alt="Siva Sundaram - Full Stack Developer" />
 </p>
 
 <h1 align="center">Hey there, I'm Siva Sundaram 👋</h1>
