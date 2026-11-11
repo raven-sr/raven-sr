@@ -11,10 +11,6 @@
   Building scalable, user-centric web applications and exploring AI-powered solutions.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raven-sr&style=flat-square&color=F97316" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
