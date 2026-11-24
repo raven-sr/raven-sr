@@ -19,8 +19,7 @@
 I'm a passionate Full-Stack Developer interested in building modern web applications and integrating AI into real-world solutions.
 
 - 💻 Building full-stack applications using the MERN stack.
-- ⚡ Exploring Next.js and modern frontend technologies.
-- ☕ Working with Java and Spring Boot for backend development.
+- ⚡ Exploring modern frontend technologies.
 - 🤖 Exploring AI integration using OpenAI APIs and LLMs.
 - 🚀 Enjoy turning ideas into practical applications.
 - 🌱 Always learning and improving my development skills.
